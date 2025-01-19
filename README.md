@@ -9,3 +9,5 @@
 [Практика 4](https://github.com/AntonOcheredko/AZSII/tree/main/Pr4/) Атака DeepFool на модели ИИ
 
 [Практика 5](https://github.com/AntonOcheredko/AZSII/tree/main/Pr5/) Атака с ограниченной памятью (PGD - Projected Gradient Descent)
+
+[Практика 6](https://github.com/AntonOcheredko/AZSII/tree/main/Pr6/) Атака по переносу (Transfer Attack) на модели ИИ
