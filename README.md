@@ -13,3 +13,5 @@
 [Практика 6](https://github.com/AntonOcheredko/AZSII/tree/main/Pr6/) Атака по переносу (Transfer Attack) на модели ИИ
 
 [Практика 7](https://github.com/AntonOcheredko/AZSII/tree/main/Pr7/) Создание и использование генеративных противоречивых примеров (GAN- based Adversarial Examples)
+
+[Практика 8](https://github.com/AntonOcheredko/AZSII/tree/main/Pr8/) Методы защиты от атак на модели ИИ
