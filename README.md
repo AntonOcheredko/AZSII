@@ -21,3 +21,5 @@
 Лабораторные работы.
 
 [Лабораторная работа 1](https://github.com/AntonOcheredko/AZSII/tree/main/Lab1) 
+
+[Лабораторная работа 2](https://github.com/AntonOcheredko/AZSII/tree/main/Lab2) 
