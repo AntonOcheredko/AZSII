@@ -18,8 +18,11 @@
 
 [Практика 8](https://github.com/AntonOcheredko/AZSII/tree/main/Pr8/) Методы защиты от атак на модели ИИ
 
-Лабораторные работы.
+
+Лабораторные работы:
 
 [Лабораторная работа 1](https://github.com/AntonOcheredko/AZSII/tree/main/Lab1) 
 
 [Лабораторная работа 2](https://github.com/AntonOcheredko/AZSII/tree/main/Lab2) 
+
+[Лабораторная работа 3](https://github.com/AntonOcheredko/AZSII/tree/main/Lab3) 
